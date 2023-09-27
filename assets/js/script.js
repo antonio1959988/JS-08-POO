@@ -245,7 +245,7 @@ class Alumno{
 }
 
 //Instancias de la clase Alumno
-let alumno1 = new Alumno("Felipe", 30);
+let alumno1 = new Alumno("Felipe", 10);
 let alumno2 = new Alumno("Felipe", 80);
 let alumno3 = new Alumno("Felipe", 60);
 
